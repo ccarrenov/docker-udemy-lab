@@ -1,3 +1,5 @@
+#UNZIP
+unzip startbootstrap-freelancer.zip
 #CREATE IMAGE
 docker build -t apache .
 #CREATE CONTAINER FROM IMAGE
